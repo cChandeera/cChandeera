@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chamika Chandeera
+#  Hey, I'm Chamika Chandeera
 
 ### 💻 Full Stack Developer | 🎓 IT Undergraduate | 🤖 AI Enthusiast
 
