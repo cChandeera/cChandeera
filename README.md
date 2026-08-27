@@ -52,7 +52,7 @@ I enjoy transforming ideas into **clean, efficient, and user-focused digital sol
 ### Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database Technologies"/>
 </p>
 
 ### Tools & Platforms
